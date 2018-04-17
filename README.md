@@ -10,5 +10,7 @@
  7. LCD
  8. 2 Resistencias 220 ohms
  9. cables
-
+ # Conclusion
+esta practica me sirvio para saber que se puede hacer una interface desde java y conectarla con el arduino para que te muestre un mensaje en el lcd con los datos que solicitaste el cual fue algo nuevo para mi por que no tenia el conocimiento que se pudiera hacer eso.
+ 
 
